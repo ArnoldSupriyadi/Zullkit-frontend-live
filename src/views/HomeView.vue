@@ -47,17 +47,11 @@ import TheWelcome from "@/components/TheWelcome.vue";
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="#">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/categories-1.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-1.jpg" />
               </div>
             </a>
 
-            <header
-              class="px-4 mb-4 leading-tight"
-            >
+            <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
                 <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Mobile UI Kit
@@ -76,14 +70,11 @@ import TheWelcome from "@/components/TheWelcome.vue";
                 <img
                   alt="Placeholder"
                   class="block w-full h-auto"
-                  src="@/assets/img/categories-2.jpg"
-                />
+                  src="@/assets/img/categories-2.jpg" />
               </div>
             </a>
 
-            <header
-              class="px-4 mb-4 leading-tight"
-            >
+            <header class="px-4 mb-4 leading-tight" >
               <h1 class="text-lg">
                 <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Fonts
@@ -102,14 +93,11 @@ import TheWelcome from "@/components/TheWelcome.vue";
                 <img
                   alt="Placeholder"
                   class="block w-full h-auto"
-                  src="@/assets/img/categories-3.jpg"
-                />
+                  src="@/assets/img/categories-3.jpg" />
               </div>
             </a>
 
-            <header
-              class="px-4 mb-4 leading-tight"
-            >
+            <header class="px-4 mb-4 leading-tight" >
               <h1 class="text-lg">
                 <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Icon Set
@@ -128,14 +116,11 @@ import TheWelcome from "@/components/TheWelcome.vue";
                 <img
                   alt="Placeholder"
                   class="block w-full h-auto"
-                  src="@/assets/img/categories-4.jpg"
-                />
+                  src="@/assets/img/categories-4.jpg" />
               </div>
             </a>
 
-            <header
-              class="px-4 mb-4 leading-tight"
-            >
+            <header class="px-4 mb-4 leading-tight" >
               <h1 class="text-lg">
                 <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Website UI Kit
@@ -157,17 +142,11 @@ import TheWelcome from "@/components/TheWelcome.vue";
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="#">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/items-1.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-1.jpg" />
               </div>
             </a>
 
-            <header
-              class="px-4 mb-4 leading-tight"
-            >
+            <header class="px-4 mb-4 leading-tight" >
               <h1 class="text-lg">
                 <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Mobile UI Kit

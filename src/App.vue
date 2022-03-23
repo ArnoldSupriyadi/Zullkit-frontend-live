@@ -6,9 +6,9 @@ import HelloWorld from "@/components/HelloWorld.vue";
 <template>
   <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800">
     <div class="container flex flex-wrap items-center justify-between mx-auto my-2">
-      <a href="#" class="flex items-center">
+      <router-link to="/" class="flex items-center">
         <img src="@/assets/img/logo.svg" class="h-8 ml-3 sm:ml-0 sm:h-8" alt="Flowbite Logo" />
-      </a>
+      </router-link>
       <div class="flex items-center md:order-2">
         <div class="mr-2 text-sm font-regular">Halo, Arnold</div>
         <button type="button" class="flex mr-3 text-sm bg-gray-800 rounded-full md:mr-0 focus:ring-4 focus:ring-gray-300dark:focus:ring-gray-600" id="user-menu-button" aria-expanded="false" data-dropdown-toggle="dropdown">
