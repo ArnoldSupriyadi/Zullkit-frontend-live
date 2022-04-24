@@ -13,7 +13,11 @@
         <h2 class="mb-4 text-xl font-medium md:mb-0 md:text-lg">New Items</h2>
         <div class="flex flex-wrap -mx-1 lg:-mx-4">
 
-        <Items v-for="items in newitems" :key="items.id" :title="items.title" :image="items.image"/>
+        <Items v-for="items in newitems" 
+        :key="items.id" 
+        :id="items.id"
+        :title="items.title" 
+        :image="items.image"/>
 
         </div>
     </div>

@@ -1,8 +1,6 @@
 <script setup>
     import RegisterForm from '@/components/authentication/RegisterForm.vue';
-    import IconLayer from '@/components/icons/IconLayer.vue'
-    import IconBadge from '@/components/icons/IconBadge.vue'
-    import IconBook from '@/components/icons/IconBook.vue'
+    import FeatureList from '@/components/authentication/FeatureList.vue';
 </script>
 <template>
   <main>
@@ -18,51 +16,7 @@
             <div class="w-full p-5 mx-auto md:max-w-4xl">
             <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
                 <div class="mx-auto md:mx-0">
-                <div class="mb-12">
-                    <div class="block mb-2">
-                    
-                    <!-- Component -->
-                    <IconLayer />
-
-                    <h3 class="inline-block ml-2 text-lg font-semibold">
-                        Customizable
-                    </h3>
-                    </div>
-                    <p class="mt-2 text-lg text-gray-500">
-                    Accelerate your work with our millions <br>
-                    of ready-to-use design projects.
-                    </p>
-                </div>
-                <div class="mb-12">
-                    <div class="block mb-2">
-                    
-                    <!-- Component -->
-                    <IconBadge />
-
-                    <h3 class="inline-block ml-2 text-lg font-semibold">
-                        500 Fortune
-                    </h3>
-                    </div>
-                    <p class="mt-2 text-lg text-gray-500">
-                    Accelerate your work with our millions <br>
-                    of ready-to-use design projects.
-                    </p>
-                </div>
-                <div class="mb-12">
-                    <div class="block mb-2">
-
-                    <!-- Component -->
-                    <IconBook />
-
-                    <h3 class="inline-block ml-2 text-lg font-semibold">
-                        Documentation
-                    </h3>
-                    </div>
-                    <p class="mt-2 text-lg text-gray-500">
-                    Accelerate your work with our millions <br>
-                    of ready-to-use design projects.
-                    </p>
-                </div>
+                    <FeatureList />
                 </div>
                 <div>
 
