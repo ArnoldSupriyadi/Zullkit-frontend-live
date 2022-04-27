@@ -26,27 +26,27 @@
                     <p class="mb-6 text-gray-500">Suitable for new team</p>
                     <ul class="mb-6 text-gray-700">
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Customizable layers
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Official documentation
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         SVG icons
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         SVG illustrations
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Pre-built design screen
 
                     </li>
@@ -66,47 +66,47 @@
                     <p class="mb-6 text-gray-500">Suitable for big company</p>
                     <ul class="mb-6 text-gray-700">
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Customizable layers
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Official documentation
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         SVG icons
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         SVG illustrations
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Pre-built design screen
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Coded template
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Support 24/7
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Private designer group
 
                     </li>
                     <li class="mb-3">
-                        <img src="img/icon-check.png" class="float-left w-6 mr-2" alt="" />
+                        <img src="@/assets/img/icon-check.png" class="float-left w-6 mr-2" alt="" />
                         Unlock cloning app
 
                     </li>
