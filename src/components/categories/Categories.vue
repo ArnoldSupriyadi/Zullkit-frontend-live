@@ -7,7 +7,7 @@
 
     async function GetCategoriesData(){
         try {
-            const response = await axios.get('http://zullkit-backend.buildwithangga.id/api/categories?show_product=1');
+            const response = await axios.get('http://zullkit-backend.buildwithangga.id/api/categories');
             categories.value = response.data.data.data
         } catch (error) {
             console.log(error)
